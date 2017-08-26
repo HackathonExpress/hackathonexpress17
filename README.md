@@ -7,4 +7,4 @@ Los datos del proyecto deberán encontrarse en el archivo dentro del repositorio
 
 Dudas o comentarios: 
 
-info@comunidadtic.com.ar
+hackathonexpress@comunidadtic.com.ar
