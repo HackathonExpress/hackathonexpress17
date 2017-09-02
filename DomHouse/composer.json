@@ -1,0 +1,14 @@
+{
+    "name": "bluerhinos/phpmqtt",
+    "description": "Simple MQTT Class",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "ChaqueTuKSA"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
